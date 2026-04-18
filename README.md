@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=k6502&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uxtbd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ###
@@ -32,4 +32,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/k6502/k6502/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/uxtbd/uxtbd/output/snake.svg" alt="Snake animation" />
